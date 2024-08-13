@@ -34,5 +34,10 @@ To use this template, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/unique-website-template.git
+   git clone https://github.com/Mak1003/mak_website.git
+Contributing
+If you would like to contribute to this project, feel free to submit a pull request. Issues and feature requests are also welcome!
+
+License
+This project is licensed under the MIT License. You are free to use, modify, and distribute this template in your projects.
 
